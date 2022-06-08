@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bam-squifi
-- 👀 I’m interested in Computer Graphics, Unreal Engine 4
-- 🌱 I’m currently learning Shader Coding & Unreal Engine 4
+- 👀 I’m interested in Computer Graphics, Unreal Engine 4 or 5
+- 🌱 I’m currently learning Shader Coding & Unreal Engine 4 or 5
 - 💞️ I’m looking to collaborate on Graphics Programming
 
 <!---
